@@ -4,9 +4,9 @@ An autonomous multi-agent triage workflow built using Relevance AI. This public 
 
 ## Architecture Overview
 * **Platform:** Relevance AI (Low-Code / No-Code Autonomous Agent Engine)
-* **Core Function:** Automated intake, intent classification, and structured data routing for private triage operations[cite: 5].
-* **Note:** Hosted as Inbound Lead Qualification template[cite: 5]
-* [Access Relevance AI Agent](https://app.relevanceai.com/agents/hcba5a/4739a460-d5a5-4f1e-accc-ed10229h2ee8/652d7733-fa70-4p0u-9fs9-d161c2d9c0c1/clone)[cite: 5]
+* **Core Function:** Automated intake, intent classification, and structured data routing for private triage operations.
+* **Note:** Hosted as an Inbound Lead Qualification template.
+* [Access Relevance AI Agent](https://app.relevanceai.com/agents/hcba5a/4739a460-d5a5-4f1e-accc-ed10229h2ee8/652d7733-fa70-4p0u-9fs9-d161c2d9c0c1/clone)
 
 ---
 
@@ -16,8 +16,8 @@ The **Amazon Private Triage Agent** is an autonomous, multi-agent workflow engin
 ---
 
 ## System Architecture & Pipeline Design
-* **Execution Engine:** Relevance AI (Low-Code / No-Code Autonomous Agent Engine)[cite: 5]
-* **Core Function:** Automated multi-stage intake, deep semantic intent classification, and structured data routing for private triage operations[cite: 5].
+* **Execution Engine:** Relevance AI (Low-Code / No-Code Autonomous Agent Engine)
+* **Core Function:** Automated multi-stage intake, deep semantic intent classification, and structured data routing for private triage operations.
 * **Security & Compliance Layer:** Enforces strict boundary isolation and local data governance to ensure sensitive client payloads never leak across unverified public endpoints.
 
 ---
@@ -30,5 +30,5 @@ The **Amazon Private Triage Agent** is an autonomous, multi-agent workflow engin
 ---
 
 ## Proof-of-Work & Deployment
-* **Repository:** Publicly audited and maintained at `cortez056-spec/amazon-private-triage-agent`[cite: 5].
-* **Live Template:** Hosted and verified as an Inbound Lead Qualification template via Relevance AI[cite: 5].
+* **Repository:** Publicly audited and maintained at `cortez056-spec/amazon-private-triage-agent`.
+* **Live Template:** Hosted and verified as an Inbound Lead Qualification template via Relevance AI.
